@@ -1,0 +1,5 @@
+Font: Inter
+Color 1: #0962EA
+Color 2: #0E7CF4
+Color 3: #0AA0F6
+Color 4: #FAF15D
